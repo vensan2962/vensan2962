@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @vensan2962
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript
+- 👋 @vensan2962
 - 📫 lepretor@gmail.com
 
 <!---
